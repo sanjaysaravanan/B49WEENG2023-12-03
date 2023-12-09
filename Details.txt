@@ -1,6 +1,6 @@
 
 1. Node JS npm project, so we can install external packages
-    1. Create a project for the backend
+    1. Create a project for the backend - npm init
     2. npm install <package-name>
 
 2. HTTP Server:
@@ -10,7 +10,7 @@
     basic server creation using http create server
 
     Disadvantages:
-      http: does not provide wide variety function to support operations like,
+      http: does not provide wide variety of function to support operations like,
 
         1. body parsing
         2. changing http methods
@@ -45,9 +45,9 @@
 4. Express:
     APIs using express -
     why express external module:
-        basic server creation is possible in normal nodejs that involves lot of code with lots of built-in packages
+        basic server creation is possible in normal nodejs that involves lot of code with lots of built-in/external packages
     
-        Express combines everything and puts together in simple terms
+        Express combines everything and puts together in simple funtions & attributes
 
     web framework http server applcation which lets us create APIs
     in fast and simple ways
